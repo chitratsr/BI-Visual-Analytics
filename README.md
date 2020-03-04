@@ -6,8 +6,9 @@
 
 ## 1a-What is Data Visualization? 
 
-* By using visual elements like graphs, charts, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
-* 
+* By using visual elements like **graphs**, **charts**, and **maps**, data **visualization tools** provide an accessible way to see and understand **trends**, **outliers**, and **patterns** in data.
+* (https://nand.io/projects/peak-spotting)[https://nand.io/projects/peak-spotting]
+* (https://informationisbeautiful.net/)[https://informationisbeautiful.net/]
 
 
 ## 1b-Why data visualization matters?
