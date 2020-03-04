@@ -74,6 +74,12 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
  
  
  
+### 2b-Data sources 
+
+
+ 
+ 
+ 
  ### 2a-BI Process from A-Z
  
 ![biprocess](https://user-images.githubusercontent.com/27078712/72890846-6a14b080-3d45-11ea-9b54-aafa268acd14.jpg)
@@ -89,5 +95,7 @@ Picture link: https://thght.works/2wo3ZAv
 
 
  
- ### 
+ ### test
+ 
+ <a href="https://www.sisense.com/blog/infographic-big-big-data/"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src='https://cdn.sisense.com/wp-content/uploads/BigData_Info-1-page-001.jpg' alt='How Big is Big Data?' 540px border='0' / class="lazyload"></a>
 
