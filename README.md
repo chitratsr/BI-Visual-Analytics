@@ -74,17 +74,23 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
  
  
  
-### 2b-Data sources 
+### 2a-Big data sources 
 
-### 2c-Database
+![bigdatasources](https://user-images.githubusercontent.com/27078712/75859038-e1049500-5e2b-11ea-9332-ac9e4a3aecb3.jpg)
 
-### 2d-ETL
+Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 
-### 2e-Datawarehouse
 
-### 2f-Business Intelligence
 
-### 2g-Big Data
+### 2b-ETL tools
+
+### 2c-Database vs Datawarehouse
+
+### 2d-Business Intelligence
+
+### 2g-Big Data Infrastructure
+
+
  
  
  
