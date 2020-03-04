@@ -60,9 +60,16 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
  
  ### 2a-BI Process from A-Z
  
- ![biprocess](https://user-images.githubusercontent.com/27078712/72890846-6a14b080-3d45-11ea-9b54-aafa268acd14.jpg)
+![biprocess](https://user-images.githubusercontent.com/27078712/72890846-6a14b080-3d45-11ea-9b54-aafa268acd14.jpg)
 
 Picture link: https://bit.ly/2HmzMnz
+
+
+![bi2](https://user-images.githubusercontent.com/27078712/75852964-b57bad80-5e1f-11ea-8702-502e91977f0d.png)
+
+Picture link: https://thght.works/2wo3ZAv
+
+
 
 
  
