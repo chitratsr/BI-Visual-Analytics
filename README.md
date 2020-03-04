@@ -104,7 +104,7 @@ Picture link: [https://bit.ly/3cujoj5](https://bit.ly/3cujoj5)
 
 ![datalake](https://user-images.githubusercontent.com/27078712/75866633-e7007300-5e37-11ea-9625-ce7816b07bcf.png)
 
-Picture link: [http://www.igfasouza.com/blog/what-is-data-lake/](http://www.igfasouza.com/blog/what-is-data-lake/)
+Picture link: [https://bit.ly/3avf8xR](https://bit.ly/3avf8xR)
  
 ### 2g- BI vs Big Data
 
