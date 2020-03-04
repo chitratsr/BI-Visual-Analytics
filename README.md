@@ -58,6 +58,22 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
  
  ## 2-Business Intelligence 101
  
+ ### 2a-Data Process Mindset
+ 
+ * Data sources : 
+ 
+ * Database :
+ 
+ * ETL (Exract, Transform, Load)
+ 
+ * Datawarehouse :
+ 
+ * Business Intelligence :
+ 
+ * Big Data
+ 
+ 
+ 
  ### 2a-BI Process from A-Z
  
 ![biprocess](https://user-images.githubusercontent.com/27078712/72890846-6a14b080-3d45-11ea-9b54-aafa268acd14.jpg)
