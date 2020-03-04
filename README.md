@@ -76,9 +76,11 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
  
 ### 2a-Big data sources 
 
-![bigdatasources](https://user-images.githubusercontent.com/27078712/75859038-e1049500-5e2b-11ea-9332-ac9e4a3aecb3.jpg)
+* ![bigdatasources](https://user-images.githubusercontent.com/27078712/75859038-e1049500-5e2b-11ea-9332-ac9e4a3aecb3.jpg)
 
-Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
+Picture link: [https://bit.ly/3cujoj5](https://bit.ly/3cujoj5)
+
+* [How Big is Big Data?](https://www.sisense.com/blog/infographic-big-big-data/)
 
 
 
