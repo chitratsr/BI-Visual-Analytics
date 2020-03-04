@@ -2,7 +2,7 @@
 
 <span>&#129311;</span>Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
-https://opensource.org/licenses
+
 
 ## 1-The Power of Data Visualization
 
@@ -58,17 +58,17 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
  
  ## 2-Business Intelligence 101
  
- ### 2a-Data Process Mindset
+ ### Data Process Mindset :
  
- * Data sources : 
+ * Data sources 
  
- * Database :
+ * Database 
  
  * ETL (Exract, Transform, Load)
  
- * Datawarehouse :
+ * Datawarehouse 
  
- * Business Intelligence :
+ * Business Intelligence 
  
  * Big Data
  
@@ -76,7 +76,15 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
  
 ### 2b-Data sources 
 
+### 2c-Database
 
+### 2d-ETL
+
+### 2e-Datawarehouse
+
+### 2f-Business Intelligence
+
+### 2g-Big Data
  
  
  
@@ -94,8 +102,4 @@ Picture link: https://thght.works/2wo3ZAv
 
 
 
- 
- ### test
- 
- <a href="https://www.sisense.com/blog/infographic-big-big-data/"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src='https://cdn.sisense.com/wp-content/uploads/BigData_Info-1-page-001.jpg' alt='How Big is Big Data?' 540px border='0' / class="lazyload"></a>
 
