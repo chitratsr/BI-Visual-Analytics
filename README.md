@@ -2,6 +2,8 @@
 
 <span>&#129311;</span>Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
+https://opensource.org/licenses
+
 ## 1-The Power of Data Visualization
 
 * [Hans Rosling](https://www.youtube.com/watch?v=jbkSRLYSojo)
