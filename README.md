@@ -38,50 +38,7 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
      
  * Rules of Thumb : **Edward Tufte Rules**
  
- ## 2-Business Intelligence 101
  
- ### Data Process Mindset :
- 
- ![biprocess](https://user-images.githubusercontent.com/27078712/72890846-6a14b080-3d45-11ea-9b54-aafa268acd14.jpg)
-
-Picture link: https://bit.ly/2HmzMnz
-
-
-![bi2](https://user-images.githubusercontent.com/27078712/75852964-b57bad80-5e1f-11ea-8702-502e91977f0d.png)
-
-Picture link: https://thght.works/2wo3ZAv
-
- 
- * Data sources 
- 
- * Database 
- 
- * ETL (Exract, Transform, Load)
- 
- * Datawarehouse 
- 
- * Business Intelligence 
- 
- * Big Data
- 
- 
- 
-### 2a-Big data sources 
-
-* ![bigdatasources](https://user-images.githubusercontent.com/27078712/75859038-e1049500-5e2b-11ea-9332-ac9e4a3aecb3.jpg)
-
-Picture link: [https://bit.ly/3cujoj5](https://bit.ly/3cujoj5)
-
-* [How Big is Big Data?](https://www.sisense.com/blog/infographic-big-big-data/)
-
-
-
-### 2b-ETL tools
-
-### 2c-Database vs Datawarehouse
-
-### 2d-Business Intelligence
-
 ### 2g-Big Data Infrastructure
 
 ![datalake](https://user-images.githubusercontent.com/27078712/75866633-e7007300-5e37-11ea-9625-ce7816b07bcf.png)
