@@ -2,6 +2,14 @@
 
 <span>&#129311;</span>Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
+<span>&#128202;</span>About Tableau Software -> [Click Here](https://www.tableau.com/about)
+
+<span>&#128201;</span>Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
+
+
+
+##1-1-Business Intelligence 101
+
 
 
 ## 1-The Power of Data Visualization
