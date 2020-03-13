@@ -52,5 +52,6 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 
 ## 4-Tableau Desktop 101
 
-<iframe src="https://prezi.com/embed/8p5tcxkfryb1/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
-
+* SWOT Analysis
+* Tableau GUI
+* Tableau + SQL (Google BigQUery)
