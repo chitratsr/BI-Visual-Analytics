@@ -45,3 +45,10 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 ### 3-Decision Support System (DSS)
 
 * [Click Here](https://docs.google.com/presentation/d/1_Gp2_J6BrfddSLpv5bSxnpqudwgWZA3UklM3IGG6pMI/edit?usp=sharing)
+* Demo : 
+    * Excel vs Tableau
+    * Machine Learning Clustering in Tableau
+
+
+
+
