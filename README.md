@@ -1,10 +1,10 @@
 # BI-Visual-Analytics
 
-<span>&#129311;</span>Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
+<span>&#129311;</span> Cevi Herdian -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
-<span>&#128202;</span>About Tableau Software -> [Click Here](https://www.tableau.com/about)
+<span>&#128202;</span> About Tableau Software -> [Click Here](https://www.tableau.com/about)
 
-<span>&#128201;</span>Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
+<span>&#128201;</span> Technical Spesifications-> [Click Here](https://github.com/itsmecevi/Tableau-Technical-Specifications/blob/master/Tableau-Technical%20Specifications.pdf)
 
 
 
