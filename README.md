@@ -41,13 +41,8 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
  * Rules of Thumb : **Edward Tufte Rules**
  
  
-### 2g-Big Data Infrastructure
 
-![datalake](https://user-images.githubusercontent.com/27078712/75866633-e7007300-5e37-11ea-9625-ce7816b07bcf.png)
-
-Picture link: [https://bit.ly/3avf8xR](https://bit.ly/3avf8xR)
- 
-### 2g- BI vs Big Data
+### 3-Decision Support System (DSS)
 
 ![bigdatavsbi](https://user-images.githubusercontent.com/27078712/75869780-a9521900-5e3c-11ea-9948-707367c76443.png)
 
