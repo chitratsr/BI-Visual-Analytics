@@ -44,6 +44,11 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 
 ### 3-Decision Support System (DSS)
 
+![gartneranalytics](https://user-images.githubusercontent.com/27078712/76624802-8a543500-6568-11ea-8c39-a47246208140.jpg)
+
+Picture link: [https://bit.ly/2w3oT85](https://bit.ly/2w3oT85)
+
+
 ![bigdatavsbi](https://user-images.githubusercontent.com/27078712/75869780-a9521900-5e3c-11ea-9948-707367c76443.png)
 
 Picture link: [https://bit.ly/39iadQR](https://bit.ly/39iadQR)
