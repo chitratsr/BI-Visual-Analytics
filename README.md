@@ -8,7 +8,7 @@
 
 
 
-##1-1-Business Intelligence 101
+## 1-Business Intelligence 101
 
 
 
