@@ -11,6 +11,14 @@
 ## 1-Business Intelligence 101
 
 
+* -> [Click Here](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
+
+
+
+
+
+
+
 
 ## 1-The Power of Data Visualization
 
