@@ -34,20 +34,6 @@
 Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 
      
- * Issues :
- 
-     * Domain situation 
-     * Data
-     * Visual encoding (D3, Tableau, Power BI, etc)
-     * Algorithm
-     
- * SOLUTION for the ISSUES :
- 
-     * Observational Studies (“Think Aloud”)
-     * Expert Interviews (aka Design Critiques)
-     * Focus Groups
-     * ALL: BENCHMARKING
-     
  * [Visual References](https://github.com/itsmecevi/visualreferences/blob/master/VisualReferences-SQLBI.pdf)
      
  * Rules of Thumb : **Edward Tufte Rules**
