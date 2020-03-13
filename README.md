@@ -29,12 +29,7 @@
 
 
 * The Five-Step Model :
- 
-     * Target
-     * Data Preparation
-     * Design
-     * Implement
-     * Evaluate
+
   
 ![5stepdesign](https://user-images.githubusercontent.com/27078712/72888440-266b7800-3d40-11ea-8668-db66477a76fb.png)
 
