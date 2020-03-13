@@ -10,16 +10,8 @@
 
 ## 1-Business Intelligence 101
  
-<p>&#1151;</p> [Click Here](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
+* [Click Here](https://docs.google.com/presentation/d/1a1-lRjjwSYBv4IUw5aLWeRr7x9JESrR8qkHR-Ug1u_4/edit?usp=sharing)
 
- <ul class="lead text-left" style="list-style-image: url(https://assets.ubuntu.com/sites/ubuntu/latest/u/img/favicon.ico);">
-            <li>
-              
-[Click Here](google.com)
-            </li>
-           
-            
- </ul>
 
 
 
