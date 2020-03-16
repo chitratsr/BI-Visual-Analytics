@@ -54,5 +54,5 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 ## 4-Tableau Desktop 101
 
 * [Click Here: SWOT Analysis](https://docs.google.com/presentation/d/1_HzgnLBup74XiDjfenyEayHecj6sT7uNll8BspKSd4Q/edit?usp=sharing)
-* Tableau GUI
+* Tableau GUI Demo
 * Tableau + SQL (Google BigQUery)
