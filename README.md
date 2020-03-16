@@ -70,6 +70,8 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
      * When your database is too slow for interactive analytics
      * When you need to take load off a transactional database (size of the data)
      * When you need to be offline (without internet connections)
+     
+     
 ________
 
 * Excel : [World_Bank_CO2](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
