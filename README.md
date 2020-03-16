@@ -104,7 +104,7 @@ _________
   * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are      separate the graphs.
   * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t        separate the graphs.
   
-* “Aggregation / Calculation”
+* “**Aggregation / Calculation**”
 * Sheet
 * Dashboard (Filter, Actions Highlight, & Formatting)
 * Story
