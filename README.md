@@ -38,7 +38,6 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
 
      
  * [Visual References](https://github.com/itsmecevi/visualreferences/blob/master/VisualReferences-SQLBI.pdf)
-     
  * Rules of Thumb : **Edward Tufte Rules**
  
  
