@@ -96,6 +96,8 @@ _________
    
 ## 7-Understanding Tableau Concepts
 
+Data: [Sample-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/master/Sample%20-%20Superstore.xls)
+
 * Show Me Tool Bar
 * Dimensions and measures
 * Column & Rows Shelf
