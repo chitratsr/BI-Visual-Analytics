@@ -72,5 +72,5 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
      * When you need to be offline (without internet connections)
 ________
 
-* sd
-* Sd
+* Excel : 
+* CSV :
