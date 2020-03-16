@@ -110,7 +110,8 @@ Data: [Sample-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/ma
 * Sheet
 * Dashboard (Filter, Actions Highlight, & Formatting)
 * Story
-  
+
+Hands-On Sample-Superstore
   
   
   
