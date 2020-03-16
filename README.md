@@ -116,6 +116,8 @@ Data: [Sample-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/ma
 
 ## 8-Tableau Use Case
 
+**Hands-On Sample-Superstore: [Sample-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/master/Sample%20-%20Superstore.xls)**
+
 * By Industry
 * By Department
 * By Business Goal
