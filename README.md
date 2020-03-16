@@ -111,7 +111,15 @@ Data: [Sample-Superstore](https://github.com/itsmecevi/Sample-Superstore/blob/ma
 * Dashboard (Filter, Actions Highlight, & Formatting)
 * Story
 
-Hands-On Sample-Superstore
+**Hands-On Sample-Superstore**
+
+
+## 8-Tableau Use Case
+
+* By Industry
+* By Department
+* By Business Goal
+* By Role Specific
   
   
   
