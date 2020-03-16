@@ -69,7 +69,8 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
      * When your database is too slow for interactive analytics
      * When you need to take load off a transactional database (size of the data)
      * When you need to be offline (without internet connections)
-
+     
+_________
 
 * Excel : [World_Bank_CO2.xlsx](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * CSV : [FL_insurance_sample.csv](https://github.com/itsmecevi/FL_insurance_sample/blob/master/FL_insurance_sample.csv)
@@ -82,6 +83,8 @@ Picture link: [https://bit.ly/3byKYeD](https://bit.ly/3byKYeD)
    * Union (vertical connection) : [amazn_stock.pdf](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
    * Joins / Blend / Inner Join (horizontal connection) : 
    * Left Join, Right Join, Full Outer Join
+   
+   
 * Data Interpreter & Data Pivoting : [CO2 API](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls)
 * Splitting : CO2 API Version-Indicator Name
 * Manage data properties :
