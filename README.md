@@ -95,4 +95,25 @@ ________
    * Assign an alias to a data value
    * Assign a geographic role to a data field
    * Change data type for a data field (number, date, string, boolean, etc.)
+   
+   
+## 7-Understanding Tableau Concepts
+
+* Show Me Tool Bar
+* Dimensions and measures
+* Column & Rows Shelf
+* Marks Cards
+* Discrete and Continuous Fields :
+  * Blue color: discret, qualitative data (string, geographics, date, date & time, boolean). If added qualitative data, then they are      separate the graphs.
+  * Green color: continuous, quantitative data, number, aggregation (sum, avg, etc).-> If added quantitative data, then they aren’t        separate the graphs.
+  
+* “Aggregation / Calculation”
+* Sheet
+* Dashboard (Filter, Actions Highlight, & Formatting)
+* Story
+  
+  
+  
+  
+  
   
