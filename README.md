@@ -77,3 +77,15 @@ ________
 * Excel : [World_Bank_CO2.xlsx](https://github.com/itsmecevi/world-bank-data/blob/master/World_Bank_CO2.xlsx)
 * CSV : [FL_insurance_sample.csv](https://github.com/itsmecevi/FL_insurance_sample/blob/master/FL_insurance_sample.csv)
 * PDF : [amazn_stock.pdf](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
+
+
+
+
+## 6-Data Preparation
+
+Data connections :
+
+ * Union (vertical connection) : [amazn_stock.pdf](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
+ *
+ *
+ * 
