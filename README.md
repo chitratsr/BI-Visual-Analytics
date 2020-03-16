@@ -83,8 +83,11 @@ ________
 
 ## 6-Data Preparation
 
-Data connections :
+* Data connections :
 
  * Union (vertical connection) : [amazn_stock.pdf](https://public.tableau.com/s/sites/default/files/media/amzn_stock.pdf)
  * Joins / Blend / Inner Join (horizontal connection) : 
  * Left Join, Right Join, Full Outer Join
+ 
+ 
+* Data interpreter : 
