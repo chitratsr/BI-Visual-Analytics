@@ -91,11 +91,8 @@ ________
  
  
 * Data Interpreter : [CO2 API](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls)
-
 * Data Pivoting : [CO2 API](https://github.com/itsmecevi/World-Data-CO2-API/blob/master/API_EN.ATM.CO2E.PC_DS2_en_excel_v2_247989.xls)
-
 * Splitting : CO2 API Version-Indicator Name
-
 * Manage data properties :
 
    * Rename a data field:
